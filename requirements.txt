@@ -1,0 +1,2 @@
+yadisk[sync_defaults]
+python-dotenv
